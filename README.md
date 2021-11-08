@@ -1,4 +1,4 @@
-# task_02_uierdetails
+# task_02_userdetails
 
 A new Flutter project.
 
