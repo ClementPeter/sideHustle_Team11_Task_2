@@ -1,8 +1,8 @@
 # task_02_userdetails
 
-SideHustle Internship Cohort 4
-- [UserDetails Application]
 
-- [ Task project 2]
+## User Details Application
+###Task project 2 - TEAM 11
 
-App UI can and Assets can be found in the images folder
+> -  Contain Contact Card of User
+> > - App UI can and Assets can be found in the images folder
